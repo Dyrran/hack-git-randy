@@ -2,8 +2,8 @@
 Ejercicios del Hack de Git en Social Oplesk
 
 - [H-1. Enviar un commit al repositorio remoto](https://github.com/Dyrran/git_h_1)
-- H-2. Enviar un directorio vacio al repositorio remoto
-- H-3. Hacer merge en mi master local y luego con master remoto
+- [H-2. Enviar un directorio vacio al repositorio remoto](https://github.com/Dyrran/git_h_2)
+- [H-3. Hacer merge en mi master local y luego con master remoto](https://github.com/Dyrran/git_h_3)
 - H-4. Extraer archivo de stage
 - H-5. Enviar una rama remota
 - H-6. Clonando un repositorio remoto
