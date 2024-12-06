@@ -8,4 +8,4 @@ Ejercicios del Hack de Git en Social Oplesk
 - [H-5. Enviar una rama remota](https://github.com/Dyrran/git_h_5)
 - [H-6. Clonando un repositorio remoto](https://github.com/Dyrran/git_h_6)
 - [H-7. Eliminar un archivo en el repositorio remoto](https://github.com/Dyrran/git_h_7)
-- H-8. Volver a un commit anterior
+- [H-8. Volver a un commit anterior](https://github.com/Dyrran/git_h_8)
